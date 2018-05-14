@@ -1,0 +1,46 @@
+body{
+	background: ghostwhite;
+}
+.phone_list{
+	float: left;
+	clear: left;
+}
+.card-deck{
+	clear: left;
+	display: inline-grid;
+
+}
+.card{
+	max-width: 20rem;
+	min-width: 20rem;
+
+	margin-top: 10px;
+	border: 1px dashed #757575;
+}
+h2{
+	margin-top: 15px;
+	margin-left: 15px;
+	color: #3f51b5;
+	font-family: sans-serif;
+}
+#new_product{
+	float: left;
+	background: #424242;
+}
+#new_product a{
+	color: white;
+	text-decoration: none;
+}
+#delete{
+	float: right;
+	width: 24px;
+	height: auto;
+	margin-right: 10px;
+
+}
+#product_photo	{
+	border-bottom: 1px dashed #757575;
+	max-height: 15rem;
+	min-height: 15rem;
+	back
+}
