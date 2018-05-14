@@ -10,6 +10,7 @@ Team members:
 3) u1610066	Elyor Keldiyorov
 4) u1610203	Sardor Doniyorov
 
+<a href="https://github.com/iuthub/design-project-design_project_phonemarket_ga/blob/master/Report.docx?raw=true">Report</a>
 
 
 Link to the website:
